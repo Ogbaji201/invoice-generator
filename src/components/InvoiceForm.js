@@ -1447,9 +1447,9 @@ const InvoiceForm = () => {
     email: "hexstelle1@gmail.com",
     ownerEmail: "hexstelle1@gmail.com",
     whatsapp: "https://wa.me/c/2348140892471",
-    bankName: "Carbon MFB",
-    accountNumber: "1224642058",
-    accountName: "Ugwunnamuchi Esther",
+    bankName: "Access Bank",
+    accountNumber: "1967188196",
+    accountName: "HEXSTELLE",
   };
 
   // Static logo (place hexstelle_logo.jpeg inside /public)
